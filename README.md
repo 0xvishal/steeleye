@@ -11,3 +11,5 @@
 #### when you apply from this repo you will get a url for ELB 
 Ex: http://foobar-terraform-elb-1887498262.ap-south-1.elb.amazonaws.com
 
+I have tested all things from "ap-south-1" Region.
+
