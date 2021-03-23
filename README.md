@@ -6,9 +6,9 @@
 	5. region: Region name 
 	6. ami: ami name for that region
 
-#### keep your private key into pri.pem file for deployment
+# keep your private key into pri.pem file for deployment
 
-#### when you apply from this repo you will get a url for ELB 
+when you apply from this repo you will get a url for ELB 
 Ex: http://foobar-terraform-elb-1887498262.ap-south-1.elb.amazonaws.com
 
 I have tested all things from "ap-south-1" Region.
