@@ -6,10 +6,12 @@
 	5. region: Region name 
 	6. ami: ami name for that region
 
-keep your private key into pri.pem file for deployment.
+1. keep your private key into pri.pem file for deployment.
+2. go.sh file for setup Go Environment & deploy application nodes 
 
-##### when you apply from this repo you will get a url for ELB.
+3. when you apply from this repo you will get a url for ELB.
 Ex: http://foobar-terraform-elb-1887498262.ap-south-1.elb.amazonaws.com
 
-I have tested all things from "ap-south-1" Region.
+4. I have tested all things from "ap-south-1" Region.
+5. Please feel free to ask any questions you may have. 
 
